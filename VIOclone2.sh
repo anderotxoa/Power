@@ -1,6 +1,6 @@
 #! /bin/ksh
 #
-# Name: check_queues
+# Name: check_queues 
 #
 # Purpose:
 #  This script manages the config of a VIO server
@@ -383,7 +383,7 @@ get_net_config() {
 	
 	if [ -z $BASEDIR/sharedevs.list ]
 	then
-		log "INFO: Looks like there is no SEAs in this VIO server."
+		log "INFO: Looks like there are no SEAs in this VIO server."
 	else
 		
 		while read SEA
