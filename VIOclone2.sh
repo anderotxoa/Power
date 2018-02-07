@@ -1,6 +1,6 @@
 #! /bin/ksh
 #
-# Name: check_queues 
+# Name: VIOclone2 
 #
 # Purpose:
 #  This script manages the config of a VIO server
