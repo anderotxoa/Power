@@ -1,6 +1,8 @@
 # Power
 Power architecture  &amp; Linux related stuff
 
+VIOclone2.sh
+
 This script creates a config file to store (and backup) a VIO server configuration.
 It then creates teh necessary commands to recreate the config in case you need it.
 
